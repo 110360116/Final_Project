@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.tictactoe;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.example.test.databinding.ActivityMainBinding;
+import com.example.tictactoe.databinding.ActivityMainBinding;
 
 import java.util.ArrayList;
 import java.util.List;
